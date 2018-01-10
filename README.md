@@ -152,3 +152,7 @@ Exclusions和Regions以及其他新兴的相关特性模块。
     - [ ] 浏览器前缀
     - [ ] 使用新的CSS特性做为增加
     - [ ] 跨浏览器兼容测试
+
+-----------
+
+![](https://www.w3cplus.com/sites/default/files/blogs/2018/1801/pay.png)
